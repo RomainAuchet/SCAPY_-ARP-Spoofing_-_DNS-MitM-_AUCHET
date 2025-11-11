@@ -1,0 +1,7 @@
+{
+	"mode": "blacklist",
+	"upstream_dns": "192.168.47.1",
+	"targets": {
+		"example.com": "192.168.47.10"
+	}
+}

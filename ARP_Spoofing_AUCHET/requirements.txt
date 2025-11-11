@@ -1,0 +1,13 @@
+# Python version
+python_version >= "3.8"
+
+# Python dependencies
+scapy>=2.4.5
+
+
+# System dependencies 
+# sudo apt install -y curl nginx apache2 dnsmasq
+curl
+nginx
+apache2
+dnsmasq
