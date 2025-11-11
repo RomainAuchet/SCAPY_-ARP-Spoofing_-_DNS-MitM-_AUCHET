@@ -7,6 +7,7 @@
 ---
 
 ## Repository layout (reflects repository screenshot)
+```text
 ├─ evidence/
 │  ├─ arp_table_after_victim.png
 │  ├─ arp_table_after.png
@@ -38,8 +39,10 @@
 ├─ README.md
 ├─ report_arp_dns_spoofing.pdf
 └─ requirements.txt
+```
 
 
 ---
 
  **Run these only inside an isolated VM network** (Attacker, Victim, Gateway VMs). Do not run on public or institutional networks
+
